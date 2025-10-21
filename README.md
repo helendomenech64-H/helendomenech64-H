@@ -9,9 +9,9 @@
 
 [Mi primer repositorio](https://github.com/helendomenech64-H/Gestor.Tareas.git)
 
-##Contact:
+## Contact:
 
-![Gmail Badge](https://img.shields.io/badge/-helendomenech64@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=White&link=mailto:helendomenech64@gmail.com)](mailto:helendomenech64@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-helendomenech64@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=White&link=mailto:helendomenech64@gmail.com)]
 
 
 <!--
