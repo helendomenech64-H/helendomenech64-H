@@ -3,7 +3,7 @@
 
 ## Aquí encontraras mis proyectos que desarrollo, trabajo y aprendo
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emagister.com%2Ftokio-school-cursos-1118353-centrodetalles.htm&psig=AOvVaw05pPeKMLNJy0MWNmjN963C&ust=1761148272668000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi0pNzStZADFQAAAAAdAAAAABAL)
+![](https://www.emagister.com/es/albums/3/9/7/6/3/xxl_cropped_9d181e015a7d57ef575c14fc09f0ae2a.jpg)
 
 ## Mis repositorios
 
