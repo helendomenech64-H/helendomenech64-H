@@ -4,7 +4,7 @@
 ## Aquí encontraras mis proyectos y intereses en los que trabajo
 ## y aprendo 
 
-![https://i.pinimg.com/736x/17/de/10/17de104b75415bb305fb8e67f82c5bc1.jpg]
+![](https://i.pinimg.com/736x/17/de/10/17de104b75415bb305fb8e67f82c5bc1.jpg)
 
 <!--
 **helendomenech64-H/helendomenech64-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
