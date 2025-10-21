@@ -4,7 +4,7 @@
 ## Aquí encontraras mis proyectos y intereses en los que trabajo
 ## y aprendo 
 
-![https://www.google.com/search?sca_esv=34891ab36b11c4e5&rlz=1C1CHBF_esES1046ES1046&sxsrf=AE3TifM5lESB3-x6HnxEf8L4cx0P1c68XQ:1761061310972&udm=2&fbs=AIIjpHz0jG1H0ZxCUnlbtviyLrNBFQvs-3IqsWkEQXXhcjwSofxCf5XJf2lvkPhtKp8voSBv8tMSQW9_p_Yvjww64NXeM_SORCsDHrHT7BjEPGYXCqrnemRNfmML7569rUhfhT3Tlfqra5RJp8Fa8KOZ3Fl71Dy1hCqzEpryu_v83MUsSd1TG2YS325sw2ZRB2i0PWbed96W&q=imagenes+de+programaci%C3%B3n+para+portadas&sa=X&ved=2ahUKEwia5vjO0LWQAxXSVaQEHWObHLgQtKgLegQIEBAB&biw=1280&bih=585&dpr=1.5#vhid=riHCVMrY4tlFdM&vssid=mosaic]
+![https://i.pinimg.com/736x/17/de/10/17de104b75415bb305fb8e67f82c5bc1.jpg]
 
 <!--
 **helendomenech64-H/helendomenech64-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
