@@ -3,7 +3,7 @@
 
 ## Aquí encontraras mis proyectos que desarrollo, trabajo y aprendo
 
-![](https://www.emagister.com/es/albums/3/9/7/6/3/xxl_cropped_9d181e015a7d57ef575c14fc09f0ae2a.jpg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlFrJGfKQ2xVddooaoB12EdeFQQHE543fJFyD9yXoRsKUtFHnZWZobBq7ogqvdFrUCUFo&usqp=CAU)
 
 ## Mis repositorios
 
