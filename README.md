@@ -1,10 +1,9 @@
 # Hola;) Bienvienido a mi perfil!
 
 
-## Aquí encontraras mis proyectos y intereses en los que trabajo
-## y aprendo 
+## Aquí encontraras mis proyectos que desarrollo, trabajo y aprendo
 
-![](https://i.pinimg.com/736x/17/de/10/17de104b75415bb305fb8e67f82c5bc1.jpg)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emagister.com%2Ftokio-school-cursos-1118353-centrodetalles.htm&psig=AOvVaw05pPeKMLNJy0MWNmjN963C&ust=1761148272668000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi0pNzStZADFQAAAAAdAAAAABAL)
 
 <!--
 **helendomenech64-H/helendomenech64-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
